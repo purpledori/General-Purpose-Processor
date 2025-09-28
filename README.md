@@ -1,2 +1,3 @@
-# General-Purpose-Processor
-Digital design circuit VHDL; ALU, FSM, Register, Decoder, Block Diagram Files
+# 8-Bit-General-Purpose-Processor
+Digitally designed circuit using VHDL and BDFs; ALU, FSM, Register, Decoder.
+Verification using simulation software on Quartus II (waveforms) and Implementation on FPGA Board.
